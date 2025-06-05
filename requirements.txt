@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+openpyxl  # Excel 파일을 읽을 경우 필요
